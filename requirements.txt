@@ -1,4 +1,6 @@
 streamlit>=1.28.0
-googletrans==4.0.0rc1
+nltk>=3.8.0
+deep-translator>=1.11.0
+matplotlib>=3.7.0
+pandas>=2.0.0
 requests>=2.25.0
-tkinter
